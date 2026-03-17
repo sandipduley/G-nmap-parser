@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sandipduley/upload-images/refs/heads/main/g-nmap-parser.png"
+       alt="g-nmap-parser image"
+</p>
+
 # Nmap Output Parser (Go)
 
 ## Overview
@@ -48,13 +53,7 @@ git clone --depth=1 https://github.com/sandipduley/G-nmap-parser.git
 cd G-nmap-parser
 ```
 
-### 2. Build the binary
-
-```
-go build -o g-nmap-parser
-```
-
-### 3. Move to your PATH (optional)
+### 2. Move to your PATH (optional)
 
 ```
 sudo cp g-nmap-parser /usr/local/bin/
